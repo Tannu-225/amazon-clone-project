@@ -10,9 +10,6 @@ Responsive Cards – clickable sections like Top Deals, Handpicked Music, Fashio
 Footer Section – links for careers, investor relations, payment products, and help center
 The design focuses on responsiveness and a modern e-commerce look, providing a familiar shopping experience similar to Amazon.
 
-<img width="628" height="230" alt="image" src="https://github.com/user-attachments/assets/637fb9e8-c258-44e7-aebf-453e0615fc49" />
-
-
 Frontend Practice → Helps you learn and practice HTML, CSS, and JavaScript by recreating a real-world website layout.
 Responsive Design Skills → Teaches you how to build a responsive e-commerce UI that adapts across devices.
 E-commerce UI Understanding → Gives hands-on experience in designing navigation bars, product sections, banners, and footers commonly used in online stores.
